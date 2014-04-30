@@ -2,6 +2,7 @@
 Code to visit all OKC profiles at match percentage at or above 85%.
 Current and working as of 2/12/2014
 Inspired by http://www.wired.com/wiredscience/2014/01/how-to-hack-okcupid and the corresponding book, http://www.amazon.com/dp/B00HY351S2
+Turn off pop-up blocking in browser to use - there's limitations in window.open()
 By Lee Yanco (lyanco)
 */
 
